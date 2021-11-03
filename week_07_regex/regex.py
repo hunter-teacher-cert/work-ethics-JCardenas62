@@ -1,5 +1,6 @@
 #got it searching for all names with a title in front.
-#cannot get it to search for names without a title. 
+#cannot get it to search for names without a title.
+#probably will need a seperate pattern to search with this one.
 
 import re
 
